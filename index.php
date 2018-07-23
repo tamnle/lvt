@@ -10,7 +10,7 @@
         <li><a href="lesson.php">First step: Vietnamese Alphabet</a></li>
         <li><a href="quiz.html">Or Test your level</a></li><br/><br/>
         <li><a href="videos.html">Second step: Study your first Vietnamese song</a></li>
-        <li><a href="emailme.html">Have question?</a></li>
+        <li><a href="emailme.php">Have question?</a></li>
       </ul>
     </div>
 
