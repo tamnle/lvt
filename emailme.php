@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html>
-
-  <head>
-    <title>Email Me</title>
-    <link rel="stylesheet" href="style.css">
-  </head>
-
-  <body>
+<?php include 'header.php'; ?>
 
     <h1><strong>Please fill in the form below to email directly to us!
     </strong></h1>
@@ -29,9 +21,4 @@
       <input type="reset" value="Clear All">
     </form>
 
-  </body>
-
-  <footer>
-    <small><em>&copy LearnVietnameseToday.com</em><small>
-  </footer>
-</html>
+<?php include 'footer.php'; ?>
